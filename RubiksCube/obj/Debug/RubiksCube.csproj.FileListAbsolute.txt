@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\bin\Debug\RubiksCube.exe.config
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\bin\Debug\RubiksCube.exe
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\bin\Debug\RubiksCube.pdb
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.Properties.Resources.resources
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.csproj.GenerateResource.Cache
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.exe
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.pdb
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.SplashScreen.resources
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.aboutForm.resources
+C:\Users\Lachlan\Documents\Year 10\Software\Projects\RubiksCube\RubiksCube\obj\Debug\RubiksCube.cubixMain.resources
